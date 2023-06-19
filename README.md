@@ -10,6 +10,7 @@ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urlli
 
 rm -rf IG-HAX
 git clone https://github.com/DARKEST-OWL-HACKING-SOCIETY/IG-HAX
+
 cd IG-HAX
 python run.py
 
